@@ -1,15 +1,4 @@
-*{
-    margin: 0; padding: 0; box-sizing: border-box;
-}
-
-body{
-    background: linear-gradient(to right,#ffbfd5,white); text-align: center; font-size: 150%; font-family: cursive}
-.Music-player{
-    width: 400px; height: 440px; position: relative; top: 50%; left: 50%; transform: translate(-50%,-0%); margin-top: 0px; align-items: center; justify-content: center; background:white; border-radius: 15px;
-}
-.Music-player .image img{
-    width: 400px; border-top-left-radius: 15px; border-top-right-radius: 15px; margin-bottom: 0px;    
-}
-audio{
-    width: 100%; outline: none;
-}
+*{ margin: 0; padding: 0; box-sizing: border-box; text-align: center; justify-content: center;}
+body{ background: linear-gradient(to right,#ffbfd5,white);align-items: center; justify-content: center; font-family: cursive;}
+.cover{ width: 80%;border-radius: 20px;}
+.audio{ width: 80%; outline: none;}
