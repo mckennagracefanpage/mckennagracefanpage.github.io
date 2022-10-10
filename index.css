@@ -8,6 +8,6 @@ nav{ display: flex;justify-content: space-between;background-color: white;}
 .bod{ font-family: Comic Sans
 ;padding: 6px;border: solid black 2px; border-radius: 20px;}
 .updates{ background-color: white; margin: 10px;padding: 10px;box-shadow: 2px 2px gray;font-family: Cambria;}
-.upimg1{ height: 200px; width: 280px; border-radius: 20px;}
+.upimg{ display: block; width: 100%; height: auto;border-radius: 20px;}
 .bio{margin: 10px;}
 .profile{ height: 80px;width: 80px;}
