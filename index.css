@@ -1,10 +1,10 @@
 *{ margin: 0;padding: 0;box-sizing: border-box;}
-.bg{ height: 40px;width: 40px;}
+.bg{ height: 80px;width: 80px;}
 body{ background-color: #ffbfd5;}
 nav{ display: flex;justify-content: space-between;background-color: white;}
-.pages{ color: black;font-family: Geneva;font-size: 20px;padding: 8px;text-decoration: none;}
+.pages{ color: black;font-family: Geneva;font-size: 40px;padding: 15px;text-decoration: none;}
 .body{ margin: 10px;}
-.wel{ text-align: center;font-family: 'Brush Script MT', cursive; font-size: 40px;}
+.wel{ text-align: center;font-family: 'Brush Script MT', cursive; font-size: 80px;}
 .bod{ font-family: Comic Sans
 ;padding: 6px;border: solid black 2px; border-radius: 20px;}
 .updates{ background-color: white; margin: 10px;padding: 10px;box-shadow: 2px 2px gray;font-family: Cambria;}
