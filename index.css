@@ -1,5 +1,5 @@
 *{ margin: 0;padding: 0;box-sizing: border-box;}
-.bg{ height: 80px;width: 80px;}
+.bg{ height: 120px;width: 120px;}
 body{ background-color: #ffbfd5;}
 nav{ display: flex;justify-content: space-between;background-color: white;}
 .pages{ color: black;font-family: Geneva;font-size: 40px;padding: 15px;text-decoration: none;}
@@ -8,6 +8,6 @@ nav{ display: flex;justify-content: space-between;background-color: white;}
 .bod{ font-family: Comic Sans
 ;padding: 6px;border: solid black 2px; border-radius: 20px;}
 .updates{ background-color: white; margin: 10px;padding: 10px;box-shadow: 2px 2px gray;font-family: Cambria;}
-.upimg1{ height: 100px; width: 180px; border-radius: 20px;}
+.upimg1{ height: 200px; width: 280px; border-radius: 20px;}
 .bio{margin: 10px;}
-.profile{ height: 40px;width: 40px;}
+.profile{ height: 80px;width: 80px;}
