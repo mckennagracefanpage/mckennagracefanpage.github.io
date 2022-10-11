@@ -1,8 +1,8 @@
-*{font-size:100%;margin: 0;padding: 0;box-sizing: border-box}
+*{font-size:120%;margin: 0;padding: 0;box-sizing: border-box}
 body{ background-color: cadetblue;}
 h1{ text-align: center; font-family: optima;}
 h2{font-family: optima; padding-bottom: 3px;}
-table{ border-collapse: collapse; width: 90%; margin-left: auto;margin-right: auto;}
+table{ border-collapse: collapse; width: 95%; margin-left: auto;margin-right: auto;}
 thead{ background-color: darkcyan;color: white; text-align: center; font-family: cambria;}
 tbody{background-color: white; text-align: center;font-family: Geneva;}
 table tbody td {border: 1px solid black;padding: 3px;}
