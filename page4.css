@@ -1,0 +1,7 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+h1 {text-align:center;padding-top:10px;}
+table { border-collapse: collapse;margin-right:auto; margin-left:auto; overflow-x:auto;}
+thead{ text-align: center;background-color:#007997;color: white;}
+table thead td { border:1px solid black;padding:3px;}
+tbody{ text-align: center;background-color:#b6fff4;}
+table tbody td { border:1px solid black;padding:3px;}
