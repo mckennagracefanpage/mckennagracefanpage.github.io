@@ -1,0 +1,9 @@
+*{box-sizing: border-box;text-align: center;}
+body{background-color: #f4d5ff;}
+table {background-color: white; border-collapse: collapse;margin: auto;}
+table thead tr{border: 1px solid black;}
+table thead td{border: 1px solid black;background-color: #3b3b3b;color: #ffffff;font-weight: bold;}
+table tbody tr{border: 1px solid black;}
+table tbody td{border: 1px solid black;padding: 5px;}
+table tbody tr:nth-child(odd){background-color: #d5f4ff;}
+table tbody tr:nth-child(even){background-color: #f7f7f7;}
