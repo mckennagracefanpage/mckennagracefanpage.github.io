@@ -1,5 +1,5 @@
 *{ margin: 0;padding: 0;box-sizing: border-box;}
-.bg{ height: 120px;width: 120px;}
+.bg{ height: 15%;width: 15%;}
 body{ background-color: #ffbfd5;}
 nav{ display: flex;justify-content: space-between;background-color: white;}
 .pages{ color: black;font-family: Geneva;font-size: 40px;padding: 15px;text-decoration: none;}
