@@ -4,7 +4,12 @@ header{ position: relative;display: flex;justify-content: space-between;align-it
 #bg{height: 15%;width: 15%;}
 header .pages a{ font-size: 100%;text-decoration: none;color: black;padding-right: 10px;}
 h1 {text-align: center;font-family: Brush Script MT , cursive; padding-bottom: 5px;border-bottom-right-radius: 10px;border-top-left-radius: 10px;border: 1px solid black;}
-.updates{background-color: #ffffff;box-shadow: 2px 2px #d4d4d4;padding: 3px;}
-.upimg {display: block;width: 100%; height: auto; border-radius: 20px;}
+.news{background-color: #ffffff;box-shadow: 2px 2px ;margin: 12px;border-radius: 10px 10px 0px 10px;}
+.news .head{border-bottom: solid black;}
+.news .head h2{text-align: center;font-family: Times New Roman;margin: 0;}
+.news .head p{text-align: right;opacity: 50%;font-family: Monaco;margin: 0px 5px 0px 0px;font-size: 80%;}
+.news h3{margin: 0;border: 0;padding: 12px 0px 0px 3px ;}
+.news .body{padding: 3px;}
+.news .body img{width: 50%;height: auto;float: left; margin: 2px 3px 0px 3px;}
 .icons {text-align: center; padding-bottom:8px;}
 .profile{ height: 40px; width: 40px; padding:10px;padding-top: 0px;}
