@@ -8,7 +8,7 @@ h1 {text-align: center;font-family: Brush Script MT , cursive; padding-bottom: 5
 .news .head{border-bottom: solid black;}
 .news .head h2{text-align: center;font-family: Times New Roman;margin: 0;}
 .news .head p{text-align: right;opacity: 50%;font-family: Monaco;margin: 0px 5px 0px 0px;font-size: 80%;}
-.news h3{margin: 0;border: 0;padding: 12px 0px 0px 3px ;}
+.news .body h3{margin: 0;border: 0;padding: 12px 0px 0px 3px ;}
 .news .body{padding: 3px;}
 .news .body img{max-width: 170px;height: auto;float: left; margin: 2px 3px 0px 3px;}
 .icons {text-align: center; padding-bottom:8px;}
