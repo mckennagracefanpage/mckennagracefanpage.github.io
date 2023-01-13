@@ -1,0 +1,39 @@
+*{
+    padding: 0%; margin: 0%; box-sizing: border-box; text-decoration: none;
+}
+nav {
+    position: fixed ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    gap: 10px;
+    z-index: 100;
+    color: #ffffff;
+    background-color: #2f2626;
+}
+body{
+    background-color: #c6c386;
+}
+.body{
+    z-index: 10;
+}
+.body .award h3{
+    margin: 0px 20px 0px 20px;
+    padding: 0px 0px 10px 0px;
+    border-bottom: solid #000000 1.2px;
+}
+.body .award h3 span{
+    font-size: small;
+    font-weight: normal;
+}
+.body .award table{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    border-collapse: collapse;
+}
+.body .award table thead th{ border: #000000 solid 1px; padding: 5px ;}
+.body .award table tbody td{ border: #000000 solid 1px; padding: 5px ;}
