@@ -25,7 +25,7 @@ h2{text-align: center;}
     justify-content: center;
     align-items: center;
 }
-.body .container .people a{
+.body .container a{
     height: fit-content;
     width: fit-content;
     padding: 10px;
