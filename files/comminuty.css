@@ -25,6 +25,12 @@ h2{text-align: center;}
     justify-content: center;
     align-items: center;
 }
+.body .container .people a{
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    background-color: #2f2626;
+}
 .body .container .people{
     height: fit-content;
     width: fit-content;
