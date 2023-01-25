@@ -50,6 +50,7 @@ header nav{
 }
 .body .paper .page .news{
     padding: 5px 0px 0px 0px;
+    gap: 12px;
     width: 7.5cm;
     height: auto;
 }
