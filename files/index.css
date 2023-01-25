@@ -24,9 +24,12 @@ header nav{
 .body{ z-index: 1;}
 .body .paper{
     background-color: #acacac;
-    margin: 0% 10% 0% 10%;
+    margin: auto;
+    max-width: 25cm;
+    min-width: 7.5cm;
     padding: 7px;
-    border-radius: 10px;
+    border: solid #ffffff 10px;
+    border-radius: 20px;
 }
 .body .paper .publisher{
     text-align: center;
