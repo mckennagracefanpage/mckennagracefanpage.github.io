@@ -45,12 +45,12 @@ header nav{
 }
 .body .paper .page{
     display: flex;
+    gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
 }
 .body .paper .page .news{
     padding: 5px 0px 0px 0px;
-    gap: 12px;
     width: 7.5cm;
     height: auto;
 }
