@@ -51,8 +51,10 @@ h2{text-align: center;}
 .body .container .dis a span{
     position: relative;
     bottom: 11px;
+    color: #ffffff;
 }
 .body .container .person li a span{
     position: relative;
     bottom: 11px;
+    color: #ffffff;
 }
