@@ -12,7 +12,7 @@ nav {
     gap: 10px;
     z-index: 100;
     color: #ffffff;
-    background-color: #2f2626;
+    background-color: #050505;
 }
 .body{
     z-index: 10;
@@ -44,5 +44,5 @@ nav {
     border-radius: 12px 12px 0px 0px;
 }
 .body .container .song audio{
-    width: 7cm;
+    width: 6.9cm;
 }
