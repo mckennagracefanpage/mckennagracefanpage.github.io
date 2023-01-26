@@ -29,6 +29,8 @@ h2{text-align: center;}
     height: fit-content;
     width: fit-content;
     background-color: #2f2626;
+    border: solid #2f2626 8px;
+    border-radius: 13px;
     color:#ffffff;
 }
 .body .container .people{
