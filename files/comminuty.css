@@ -41,3 +41,26 @@ h2{text-align: center;}
 .body .container .people a{
     color: #ffffff;
 }
+.body .container a{
+    background-color: #2f2626;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 13px;
+    padding: 8px;
+    color: #ffffff;
+    justify-items: center;
+}
+.body .container .person{
+    background-color: #2f2626;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 13px;
+    padding: 8px;
+    color: #ffffff;
+    justify-items: center;
+}
+.body .container .person li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
