@@ -26,28 +26,11 @@ h2{text-align: center;}
     align-items: center;
 }
 .body .container a{
+    background-color: #2f2626;
     height: fit-content;
     width: fit-content;
-    background-color: #2f2626;
+    border-radius: 13px;
     border: solid #2f2626 8px;
-    border-radius: 13px;
-    color:#ffffff;
-}
-.body .container .people{
-    height: fit-content;
-    width: fit-content;
-    padding: 10px;
-    background-color: #2f2626;
-}
-.body .container .people a{
-    color: #ffffff;
-}
-.body .container a{
-    background-color: #2f2626;
-    height: fit-content;
-    width: fit-content;
-    border-radius: 13px;
-    padding: 8px;
     color: #ffffff;
     justify-items: center;
 }
