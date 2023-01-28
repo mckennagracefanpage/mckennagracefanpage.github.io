@@ -55,11 +55,12 @@ header nav{
     height: auto;
     border-radius: 7px;
     height: fit-content;
+    line-height: 1.2;
 }
 .body .paper .page .news legend{
     text-align: center;
     padding: 3px;
-
+    font-size: 19px;
 }
 .body .paper .page .news img{
     width: 7.5cm;
