@@ -1,0 +1,87 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;text-decoration: none;color: #000;
+}
+body{
+    background-color: #b38971;
+}
+@font-face {
+    font-family: 'gabriola';
+    src: url(../fonts/Gabriola.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'segoepr';
+    src: url(../fonts/segoepr.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'times';
+    src: url(../fonts/times.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cour';
+    src: url(../fonts/cour.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'impact';
+    src: url(../fonts/impact.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'javatext';
+    src: url(../fonts/javatext.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'simsub';
+    src: url(../fonts/simsunb.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'trebuc';
+    src: url(../fonts/trebuc.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+.border{
+    background-color: #fff;
+    margin: 25px 25px 0px 25px;
+    padding: 10px;
+    overflow-y: hidden;
+    height: 94vh;
+}
+.border .navbar{
+    background-color: #2d2523;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.border .container{
+    height: 84vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.border .navbar .active{
+    background-color: #fff;
+}
+.profiles{
+    text-align: center;
+    font-size: 20px;
+}
+.profiles .links{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
