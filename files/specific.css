@@ -39,40 +39,7 @@
     #pages a{
         align-items: center;
     }
-/* NEWS */
-    .container .publisher{
-        text-align: center;
-        font-family: times;
-        font-weight: 100;
-        padding: 0px 0px 3px 0px;
-        border-bottom: solid #000 1px;
-    }
-    .container .paper{
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        justify-content: center;
-    }
-    .container .paper .news{
-        width: 5.5cm;
-        height: fit-content;
-        padding: 3px;
-    }
-    .container .paper .news .headline{
-        font-weight: 500;
-        font-size: 20px;
-        font-family: javatext;
-        text-align: center;
-    }
-    .container .paper .news img{
-        width: 5.5cm;
-        height: auto;
-    }
-    .container .paper .news .story{
-        font-family: sans-serif;
-        line-height: 1.2;
-        word-spacing: 3px;
-    }
+
     /* BIOGRAPHY */
 /* SONGS */
 .container .songs{
@@ -113,8 +80,5 @@
         font-style: italic;
     }
     /* AWARD */
-/* COMMUNITY */
-    .container .person{
-        line-height: 1.5
-    }
+
     /* ABOUT */
